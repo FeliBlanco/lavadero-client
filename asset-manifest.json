@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/lavadero-client/static/js/main.327fc4ef.js",
+    "main.js": "/lavadero-client/static/js/main.93f7ed90.js",
     "static/media/nosotros.png": "/lavadero-client/static/media/nosotros.389e4e0feadb7ee58a5a.png",
     "static/media/logo.jpg": "/lavadero-client/static/media/logo.02d0c79c1529d89319ab.jpg",
     "static/media/banner.jpg": "/lavadero-client/static/media/banner.2ef37455cc59cc405bc1.jpg",
     "index.html": "/lavadero-client/index.html",
-    "main.327fc4ef.js.map": "/lavadero-client/static/js/main.327fc4ef.js.map"
+    "main.93f7ed90.js.map": "/lavadero-client/static/js/main.93f7ed90.js.map"
   },
   "entrypoints": [
-    "static/js/main.327fc4ef.js"
+    "static/js/main.93f7ed90.js"
   ]
 }
